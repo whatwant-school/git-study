@@ -24,14 +24,18 @@ Git basic course
 - GitHub Guide 모음
 - https://guides.github.com/
 
-### Git Basics • Training (GitHub Training & Guides)
+### Git Basics • Training (GitHub Training & Guides) (Eng)
 - GitHub에서 제공하는 Git Training 동영상 모음. 총 5편으로 각 5분에서 10분 정도.
 - https://www.youtube.com/playlist?list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH
 
-### GitHub Overview • Training (GitHub Training & Guides)
+### GitHub Overview • Training (GitHub Training & Guides) (Eng)
 - GitHub에서 제공하는 GitHub Overview 동영상 모음. 총 4편으로 각 30분에서 50분 정도.
 - https://www.youtube.com/playlist?list=PLg7s6cbtAD15Das5LK9mXt_g59DLWxKUe
 
-### Learning Lab (GitHub)
+### Learning Lab (GitHub) (Eng)
 - 직접 명령어를 수행하면서 배울 수 있는 강좌
 - https://lab.github.com/
+
+### Github.com (생활코딩) (Kor)
+- 생활코딩에서 제공하는 GitHub 강좌 동영상. 총 7편으로 각 10분 이내 분량
+- https://www.youtube.com/playlist?list=PLuHgQVnccGMDWjb0TWItMCfDWDs8Y3Oo7

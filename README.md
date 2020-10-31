@@ -8,6 +8,11 @@ Git basic course
 - PDF로 강의 자료 제공. 강추!
 - https://github.com/ossdevforum/git-starter
 
+### 초보자를 위한 Git & GitHub (Kor)
+- 강의보다는 발표를 위한 자료. overview 하기에는 괜찮음
+- https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/
+- https://www.slideshare.net/jayjin0427/git-github-145104268
+
 
 ## Git 강좌
 
@@ -51,3 +56,19 @@ https://www.youtube.com/playlist?list=PLuHgQVnccGMCNJESahrVV-uYGMNYK_vMf
 ### Github.com (생활코딩) (Kor)
 - 생활코딩에서 제공하는 GitHub 강좌 동영상. 총 7편으로 각 10분 이내 분량
 - https://www.youtube.com/playlist?list=PLuHgQVnccGMDWjb0TWItMCfDWDs8Y3Oo7
+
+
+
+## Tip
+
+### GIT2 - SourceTree 버전관리편 (생활코딩) (Kor)
+- GUI 환경에서 Git 사용하기
+- https://www.youtube.com/playlist?list=PLuHgQVnccGMCejd1l8C8oyZSYQDtkMRAg
+
+### Git Tips (Kor)
+- 다양한 Tip 설명. 실습할 수 있는 Docker Image도 제공
+- https://github.com/mingrammer/git-tips
+
+### Pro Git v2 (Kor)
+- Bible
+- https://git-scm.com/book/ko/v2

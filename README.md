@@ -35,7 +35,7 @@ Git basic course
 
 ### GitN (생활코딩) (Kor)
 - 생활코딩에서 제공하는 Git 강좌 동영상. 총 8편으로 각 10분 이내 분량
-https://www.youtube.com/playlist?list=PLuHgQVnccGMCNJESahrVV-uYGMNYK_vMf
+- https://www.youtube.com/playlist?list=PLuHgQVnccGMCNJESahrVV-uYGMNYK_vMf
 
 
 
